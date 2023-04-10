@@ -18,37 +18,61 @@ Chapter 01 코딩 테스트 개요
 
 ### Chapter 03 그리디
 <ul>
-<li><a href="a">1 당장 좋은 것만 선택하는 그리디</a></li>
-<li><a href="a">2 [실전 문제] 큰 수의 법칙</a></li>
-<li><a href="a">3 [실전 문제] 숫자 카드 게임</a></li>
-<li><a href="a">4 [실전 문제] 1이 될 때까지</a></li>
+<li><a href="a" list-style-type: none;>1 당장 좋은 것만 선택하는 그리디</a></li>
+<li><a href="a" list-style-type: none;>2 [실전 문제] 큰 수의 법칙</a></li>
+<li><a href="a" list-style-type: none;>3 [실전 문제] 숫자 카드 게임</a></li>
+<li><a href="a" list-style-type: none;>4 [실전 문제] 1이 될 때까지</a></li>
 </ul>
 
 ### Chapter 04 구현
 <ul>
-<li><a href="a">1 아이디어를 코드로 바꾸는 구현</a></li>
-<li><a href="a">2 [실전 문제] 왕실의 나이트</a></li>
-<li><a href="a">3 [실전 문제] 게임 개발</a></li>
+<li><a href="a" list-style-type: none;>1 아이디어를 코드로 바꾸는 구현</a></li>
+<li><a href="a" list-style-type: none;>2 [실전 문제] 왕실의 나이트</a></li>
+<li><a href="a" list-style-type: none;>3 [실전 문제] 게임 개발</a></li>
 </ul>
 
 ### Chapter 05 DFS/BFS
-__1 꼭 필요한 자료구조 기초
+<ul>
+<li><a href="a" list-style-type: none;>1 꼭 필요한 자료구조 기초</a></li>
+<li><a href="a" list-style-type: none;></a></li>
+<li><a href="a" list-style-type: none;></a></li>
+<li><a href="a" list-style-type: none;></a></li>
+</ul>
+__
 __2 탐색 알고리즘 DFS/BFS
 __3 [실전 문제] 음료수 얼려 먹기
 __4 [실전 문제] 미로 탈출
 
 ### Chapter 06 정렬
+<ul>
+<li><a href="a" list-style-type: none;></a></li>
+<li><a href="a" list-style-type: none;></a></li>
+<li><a href="a" list-style-type: none;></a></li>
+<li><a href="a" list-style-type: none;></a></li>
+</ul>
 __1 기준에 따라 데이터를 정렬
 __2 [실전 문제] 위에서 아래로
 __3 [실전 문제] 성적이 낮은 순서로 학생 출력하기
 __4 [실전 문제] 두 배열의 원소 교체
 
 ### Chapter 07 이진 탐색
+<ul>
+<li><a href="a" list-style-type: none;></a></li>
+<li><a href="a" list-style-type: none;></a></li>
+<li><a href="a" list-style-type: none;></a></li>
+<li><a href="a" list-style-type: none;></a></li>
+</ul>
 __1 범위를 반씩 좁혀가는 탐색
 __2 [실전 문제] 부품 찾기
 __3 [실전 문제] 떡볶이 떡 만들기
 
 ### Chapter 08 다이나믹 프로그래밍
+<ul>
+<li><a href="a" list-style-type: none;></a></li>
+<li><a href="a" list-style-type: none;></a></li>
+<li><a href="a" list-style-type: none;></a></li>
+<li><a href="a" list-style-type: none;></a></li>
+</ul>
 __1 다이나믹 프로그래밍
 __2 [실전 문제] 1로 만들기
 __3 [실전 문제] 개미 전사
@@ -56,11 +80,23 @@ __4 [실전 문제] 바닥 공사
 __5 [실전 문제] 효율적인 화폐 구성
 
 ### Chapter 09 최단 경로
+<ul>
+<li><a href="a" list-style-type: none;></a></li>
+<li><a href="a" list-style-type: none;></a></li>
+<li><a href="a" list-style-type: none;></a></li>
+<li><a href="a" list-style-type: none;></a></li>
+</ul>
 __1 가장 빠른 길 찾기
 __2 [실전 문제] 미래 도시
 __3 [실전 문제] 전보
 
 ### Chapter 10 그래프 이론
+<ul>
+<li><a href="a" list-style-type: none;></a></li>
+<li><a href="a" list-style-type: none;></a></li>
+<li><a href="a" list-style-type: none;></a></li>
+<li><a href="a" list-style-type: none;></a></li>
+</ul>
 __1 다양한 그래프 알고리즘
 __2 [실전 문제] 팀 결성
 __3 [실전 문제] 도시 분할 계획
@@ -68,6 +104,12 @@ __4 [실전 문제] 커리큘럼
 __PART 03 알고리즘 유형별 기출문제
 
 ### Chapter 11 그리디 문제
+<ul>
+<li><a href="a" list-style-type: none;></a></li>
+<li><a href="a" list-style-type: none;></a></li>
+<li><a href="a" list-style-type: none;></a></li>
+<li><a href="a" list-style-type: none;></a></li>
+</ul>
 __[한 장으로 보는 알고리즘] 그리디
 __Q 01 모험가 길드
 __Q 02 곱하기 혹은 더하기
@@ -77,6 +119,12 @@ __Q 05 볼링공 고르기
 __Q 06 무지의 먹방 라이브
 
 ### Chapter 12 구현 문제
+<ul>
+<li><a href="a" list-style-type: none;></a></li>
+<li><a href="a" list-style-type: none;></a></li>
+<li><a href="a" list-style-type: none;></a></li>
+<li><a href="a" list-style-type: none;></a></li>
+</ul>
 __[한 장으로 보는 알고리즘] 구현
 __Q 07 럭키 스트레이트
 __Q 08 문자열 재정렬
@@ -88,6 +136,12 @@ __Q 13 치킨 배달
 __Q 14 외벽 점검
 
 ### Chapter 13 DFS/BFS 문제
+<ul>
+<li><a href="a" list-style-type: none;></a></li>
+<li><a href="a" list-style-type: none;></a></li>
+<li><a href="a" list-style-type: none;></a></li>
+<li><a href="a" list-style-type: none;></a></li>
+</ul>
 __[한 장으로 보는 알고리즘] DFS/BFS
 __Q 15 특정 거리의 도시 찾기
 __Q 16 연구소
@@ -99,6 +153,12 @@ __Q 21 인구 이동
 __Q 22 블록 이동하기
 
 ### Chapter 14 정렬 문제
+<ul>
+<li><a href="a" list-style-type: none;></a></li>
+<li><a href="a" list-style-type: none;></a></li>
+<li><a href="a" list-style-type: none;></a></li>
+<li><a href="a" list-style-type: none;></a></li>
+</ul>
 __[한 장으로 보는 알고리즘] 정렬
 __Q 23 국영수
 __Q 24 안테나
@@ -106,6 +166,12 @@ __Q 25 실패율
 __Q 26 카드 정렬하기
 
 ### Chapter 15 이진 탐색 문제
+<ul>
+<li><a href="a" list-style-type: none;></a></li>
+<li><a href="a" list-style-type: none;></a></li>
+<li><a href="a" list-style-type: none;></a></li>
+<li><a href="a" list-style-type: none;></a></li>
+</ul>
 __[한 장으로 보는 알고리즘] 이진 탐색
 __Q 27 정렬된 배열에서 특정 수의 개수 구하기
 __Q 28 고정점 찾기
@@ -113,6 +179,12 @@ __Q 29 공유기 설치
 __Q 30 가사 검색
 
 ### Chapter 16 다이나믹 프로그래밍 문제
+<ul>
+<li><a href="a" list-style-type: none;></a></li>
+<li><a href="a" list-style-type: none;></a></li>
+<li><a href="a" list-style-type: none;></a></li>
+<li><a href="a" list-style-type: none;></a></li>
+</ul>
 __[한 장으로 보는 알고리즘] 다이나믹 프로그래밍
 __Q 31 금광
 __Q 32 정수 삼각형
@@ -122,6 +194,12 @@ __Q 35 못생긴 수
 __Q 36 편집 거리
 
 ### Chapter 17 최단 경로 문제
+<ul>
+<li><a href="a" list-style-type: none;></a></li>
+<li><a href="a" list-style-type: none;></a></li>
+<li><a href="a" list-style-type: none;></a></li>
+<li><a href="a" list-style-type: none;></a></li>
+</ul>
 __[한 장으로 보는 알고리즘] 최단 경로
 __Q 37 플로이드
 __Q 38 정확한 순위
@@ -129,6 +207,12 @@ __Q 39 화성 탐사
 __Q 40 숨바꼭질
 
 ### Chapter 18 그래프 이론 문제
+<ul>
+<li><a href="a" list-style-type: none;></a></li>
+<li><a href="a" list-style-type: none;></a></li>
+<li><a href="a" list-style-type: none;></a></li>
+<li><a href="a" list-style-type: none;></a></li>
+</ul>
 __[한 장으로 보는 알고리즘] 그래프 이론
 __Q 41 여행 계획
 __Q 42 탑승구
@@ -137,6 +221,12 @@ __Q 44 행성 터널
 __Q 45 최종 순위
 
 ### Chapter 19 2020년 상반기 삼성전자 기출문제
+<ul>
+<li><a href="a" list-style-type: none;></a></li>
+<li><a href="a" list-style-type: none;></a></li>
+<li><a href="a" list-style-type: none;></a></li>
+<li><a href="a" list-style-type: none;></a></li>
+</ul>
 __Q 46 아기 상어
 __Q 47 청소년 상어
 __Q 48 어른 상어
