@@ -18,17 +18,17 @@ Chapter 01 코딩 테스트 개요
 
 ### Chapter 03 그리디
 <ul>
-<li><a href="a" list-style-type: none;>1 당장 좋은 것만 선택하는 그리디</a></li>
-<li><a href="a" list-style-type: none;>2 [실전 문제] 큰 수의 법칙</a></li>
-<li><a href="a" list-style-type: none;>3 [실전 문제] 숫자 카드 게임</a></li>
-<li><a href="a" list-style-type: none;>4 [실전 문제] 1이 될 때까지</a></li>
+<li style="list-style-type: none;"><a href="a">1 당장 좋은 것만 선택하는 그리디</a></li>
+<li style="list-style: none;"><a href="a" list-style-type: none;>2 [실전 문제] 큰 수의 법칙</a></li>
+<li style="list-style: none;"><a href="a" list-style-type: none;>3 [실전 문제] 숫자 카드 게임</a></li>
+<li style="list-style: none;"><a href="a" list-style-type: none;>4 [실전 문제] 1이 될 때까지</a></li>
 </ul>
 
 ### Chapter 04 구현
 <ul>
-<li><a href="a" list-style-type: none;>1 아이디어를 코드로 바꾸는 구현</a></li>
-<li><a href="a" list-style-type: none;>2 [실전 문제] 왕실의 나이트</a></li>
-<li><a href="a" list-style-type: none;>3 [실전 문제] 게임 개발</a></li>
+<li style="list-style: none;"><a href="a">1 아이디어를 코드로 바꾸는 구현</a></li>
+<li style="list-style: none;"><a href="a" list-style-type: none;>2 [실전 문제] 왕실의 나이트</a></li>
+<li style="list-style: none;"><a href="a" list-style-type: none;>3 [실전 문제] 게임 개발</a></li>
 </ul>
 
 ### Chapter 05 DFS/BFS
